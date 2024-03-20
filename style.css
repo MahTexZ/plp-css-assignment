@@ -1,0 +1,43 @@
+
+.header {
+  background-color: #333;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.introduction {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.skills {
+  background-color: #eee;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.skills ul {
+  list-style: none;
+}
+
+.skills li {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.contact {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+.contact ul {
+  list-style: none;
+}
+
+.contact li {
+  margin: 5px 0;
+}
